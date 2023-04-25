@@ -1,0 +1,10 @@
+#text {
+  font-family: 'Readex Pro', FontAwesome, Roboto, sans-serif;
+  font-size: 12px;
+  margin: 5px;
+}
+
+#input {
+  margin: 5px;
+  border-radius: 0;
+}

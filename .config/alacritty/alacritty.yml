@@ -1,0 +1,45 @@
+window:
+  padding:
+    x: 5
+    y: 5
+  opacity: 1.0
+  dynamic_title: true
+  class:
+    instance: Alacritty
+    general: Alacritty
+scrolling:
+  history: 1024
+  multiplier: 4
+font:
+  normal:
+    family: DM Mono
+    style: Regular
+  bold:
+    style: Bold
+  italic:
+    style: Italic
+  bold_italic:
+    style: Bold Italic
+  size: 11.0
+colors:
+  primary:
+    background: '#232a33'
+    foreground: '#ffffff'
+  normal:
+    black: '#000000'
+    red: '#ec2864'
+    green: '#ff90d0'
+    yellow: '#ffb86c'
+    blue: '#7dc1ff'
+    magenta: '#b084eb'
+    cyan: '#35ffdc'
+    white: '#ffffff'
+  bright:
+    black: '#000000'
+    red: '#ec2864'
+    green: '#ff90d0'
+    yellow: '#ffb86c'
+    blue: '#7dc1ff'
+    magenta: '#b084eb'
+    cyan: '#35ffdc'
+    white: '#ffffff'
